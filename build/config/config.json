@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0xb04088Ce77B6d3950D514259599D529044ae22E4",
+  "SCAN_LINK": "https://polygonscan.com/token/0xb04088Ce77B6d3950D514259599D529044ae22E4",
+  "NETWORK": {
+    "NAME": "Polygon Mainnet",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "Fighting Ghost",
+  "SYMBOL": "FG",
+  "MAX_SUPPLY": 10000,
+  "WEI_COST":100000000000000,
+  "DISPLAY_COST": 0.0001,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/the-fighting-ghot",
+  "SHOW_BACKGROUND": true
+}
